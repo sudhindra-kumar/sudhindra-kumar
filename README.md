@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Sudhindra Kumar Banner" width="100%">
+</p>
+
+<br>
 # Hi there, I'm Sudhindra Kumar 👋
 
 🎓 B.Tech Computer Science Student  
